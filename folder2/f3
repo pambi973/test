@@ -1,2 +1,8 @@
 Merge Feature 2 to master and the see what will happen.
 Feature2
+
+
+git remote add origin https://github.com/pambi973/myapp.git
+git branch -M main
+git push -u origin main
+
