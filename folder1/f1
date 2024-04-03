@@ -1,2 +1,13 @@
 this is file1 in master branch
 file is under folder1
+
+git remote add origin https://github.com/pambi973/myapp.git
+git branch -M main
+git push -u origin main
+
+Que: Privacy is a part of overall security in the organization. True/False?
+
+
+Ans: Sometimes true
+
+
