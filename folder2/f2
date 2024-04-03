@@ -1,0 +1,4 @@
+1.
+folder2
+	folder3 <<<<--- Feature1 (folder 3 --> commit 1, 2, 3, 4) (changes in same file, new files addition, some kind of deletion also)
+
